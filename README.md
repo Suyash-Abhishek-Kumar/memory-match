@@ -2,7 +2,7 @@
 
 A classic memory card-flip game made in Unity, where the goal is to find all matching pairs within a limited number of flips.
 
-🚀 **Play it here:** [Memory Match on Itch.io](https://cheesebit27.itch.io/memory-match)
+🚀 **Download it here:** [Memory Match on Itch.io](https://cheesebit27.itch.io/memory-match)
 
 ## 🧠 Game Objective
 
